@@ -6,6 +6,8 @@ namespace Lab3
 {
     public partial class Task2 : Form
     {
+        private Point? startPoint = null; 
+
         public Task2()
         {
             InitializeComponent();
@@ -25,7 +27,7 @@ namespace Lab3
 
             while (true)
             {
-                DrawPoint(x0, y0); 
+                DrawPoint(x0, y0);
 
                 if (x0 == x1 && y0 == y1) break;
 
@@ -64,12 +66,11 @@ namespace Lab3
 
             for (var x = x0 + 1; x <= x1 - 1; x++)
             {
-                DrawPoint(x, (int)y, 1 - (y - (int)y)); 
-                DrawPoint(x, (int)y + 1, y - (int)y);   
+                DrawPoint(x, (int)y, 1 - (y - (int)y));
+                DrawPoint(x, (int)y + 1, y - (int)y);
                 y += gradient;
             }
         }
-
 
         private void DrawPoint(int x, int y, float intensity = 1)
         {
@@ -77,7 +78,7 @@ namespace Lab3
             {
                 using (Graphics g = pictureBox1.CreateGraphics())
                 {
-                    g.FillRectangle(Brushes.Black, x, y, 2, 2);
+                    g.FillRectangle(Brushes.Black, x, y, 2, 2); 
                 }
             }
             else
@@ -91,34 +92,59 @@ namespace Lab3
             }
         }
 
+        private void DrawFirstPointMarker(int x, int y)
+        {
+            using (Graphics g = pictureBox1.CreateGraphics())
+            {
+                g.FillRectangle(Brushes.Black, x, y, 2, 2); 
+            }
+        }
+
         private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
         {
-            int x0 = 150;  
-            int y0 = 100;
-            int x1 = e.X;
-            int y1 = e.Y;
-
-            if (checkBoxBresenham.Checked)
+            if (!checkBoxBresenham.Checked && !checkBoxWu.Checked)
             {
-                BresenhamLine(x0, y0, x1, y1);
+                MessageBox.Show("Выберите алгоритм (Брезенхем или Ву).");
+                return;
             }
-            else if (checkBoxWu.Checked)
+
+            if (startPoint == null) 
             {
-                WuLine(x0, y0, x1, y1);
+                startPoint = new Point(e.X, e.Y);
+                DrawFirstPointMarker(e.X, e.Y); 
+            }
+            else
+            {
+                Point endPoint = new Point(e.X, e.Y);
+                int x0 = startPoint.Value.X;
+                int y0 = startPoint.Value.Y;
+                int x1 = endPoint.X;
+                int y1 = endPoint.Y;
+
+                if (checkBoxBresenham.Checked)
+                {
+                    BresenhamLine(x0, y0, x1, y1);
+                }
+                else if (checkBoxWu.Checked)
+                {
+                    WuLine(x0, y0, x1, y1);
+                }
+
+                startPoint = null;
             }
         }
 
         private void clearButton_Click(object sender, EventArgs e)
         {
             pictureBox1.Image = null;
-            pictureBox1.Invalidate(); 
+            pictureBox1.Invalidate();
         }
 
         private void checkBoxBresenham_CheckedChanged(object sender, EventArgs e)
         {
             if (checkBoxBresenham.Checked)
             {
-                checkBoxWu.Checked = false; 
+                checkBoxWu.Checked = false;
             }
         }
 
@@ -126,7 +152,7 @@ namespace Lab3
         {
             if (checkBoxWu.Checked)
             {
-                checkBoxBresenham.Checked = false; 
+                checkBoxBresenham.Checked = false;
             }
         }
     }
