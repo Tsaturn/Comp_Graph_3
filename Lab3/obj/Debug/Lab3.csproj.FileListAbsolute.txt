@@ -23,6 +23,7 @@ C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.Genera
 C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
 C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.exe
 C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.pdb
+<<<<<<< HEAD
 C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\bin\Debug\Lab3.exe.config
 C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\bin\Debug\Lab3.exe
 C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\bin\Debug\Lab3.pdb
@@ -47,3 +48,5 @@ C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.Gene
 C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.exe
 C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.pdb
+=======
+>>>>>>> parent of 9ea91bc (Task 1 done)
