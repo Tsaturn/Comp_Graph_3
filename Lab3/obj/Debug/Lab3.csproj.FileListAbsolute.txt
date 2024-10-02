@@ -23,3 +23,4 @@ C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.Genera
 C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
 C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.exe
 C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.Resources.Resources.resources
