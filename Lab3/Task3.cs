@@ -171,5 +171,13 @@ namespace Lab3
             count = 0;
             points.Clear();
         }
+
+        private void button_color_Click(object sender, EventArgs e)
+        {
+            if (sender is Button clickedButton)
+            {
+                PointColor = clickedButton.BackColor;
+            }
+        }
     }
 }
