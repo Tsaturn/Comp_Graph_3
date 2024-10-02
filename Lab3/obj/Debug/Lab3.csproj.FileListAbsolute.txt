@@ -23,4 +23,27 @@ C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.Genera
 C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
 C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.exe
 C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.pdb
-C:\Users\chuev\source\repos\lab_3\Comp_Graph_3\Lab3\obj\Debug\Lab3.Resources.Resources.resources
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\bin\Debug\Lab3.exe
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\obj\Debug\Lab3.Task1.resources
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\obj\Debug\Lab3.Task2.resources
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\obj\Debug\Lab3.Task3.resources
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\obj\Debug\Lab3.exe
+C:\Users\anast\OneDrive\Рабочий стол\4 курс\компьютерная графика\lab2\Comp_Graph_3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\bin\Debug\Lab3.exe
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.Task1.resources
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.Task2.resources
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.Task3.resources
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.exe
+C:\Users\ASUS\Desktop\4 курс\KG\Comp_Graph_3\Lab3\obj\Debug\Lab3.pdb

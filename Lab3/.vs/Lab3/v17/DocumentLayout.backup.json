@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chuev\\source\\repos\\lab_3\\Comp_Graph_3\\Lab3\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|c:\\users\\chuev\\source\\repos\\lab_3\\comp_graph_3\\lab3\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|c:\\users\\asus\\desktop\\4 \u043A\u0443\u0440\u0441\\kg\\comp_graph_3\\lab3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|C:\\Users\\chuev\\source\\repos\\lab_3\\Comp_Graph_3\\Lab3\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|C:\\Users\\chuev\\source\\repos\\lab_3\\Comp_Graph_3\\Lab3\\task1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CA39659-4DEB-42DB-83E9-B532120F1079}|Lab3.csproj|solutionrelative:task1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,39 +34,65 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Task1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\chuev\\source\\repos\\lab_3\\Comp_Graph_3\\Lab3\\Task1.Designer.cs",
-              "RelativeDocumentMoniker": "Task1.Designer.cs",
-              "ToolTip": "C:\\Users\\chuev\\source\\repos\\lab_3\\Comp_Graph_3\\Lab3\\Task1.Designer.cs",
-              "RelativeToolTip": "Task1.Designer.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAwGQAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:03:08.452Z"
+              "WhenOpened": "2024-09-27T12:54:52.204Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task1.cs",
-              "DocumentMoniker": "C:\\Users\\chuev\\source\\repos\\lab_3\\Comp_Graph_3\\Lab3\\Task1.cs",
-              "RelativeDocumentMoniker": "Task1.cs",
-              "ToolTip": "C:\\Users\\chuev\\source\\repos\\lab_3\\Comp_Graph_3\\Lab3\\Task1.cs",
-              "RelativeToolTip": "Task1.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFAAAAAQAAAAAAAAAA==",
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Task3.cs",
+              "RelativeDocumentMoniker": "Task3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Task3.cs",
+              "RelativeToolTip": "Task3.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAnwFQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T12:29:38.082Z",
+              "WhenOpened": "2024-09-27T12:59:18.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Task1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\chuev\\source\\repos\\lab_3\\Comp_Graph_3\\Lab3\\Task1.cs",
-              "RelativeDocumentMoniker": "Task1.cs",
-              "ToolTip": "C:\\Users\\chuev\\source\\repos\\lab_3\\Comp_Graph_3\\Lab3\\Task1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Task1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T12:29:38.088Z"
+              "WhenOpened": "2024-09-27T12:54:56.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Task1.cs",
+              "RelativeDocumentMoniker": "Task1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Task1.cs",
+              "RelativeToolTip": "Task1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:40:14.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Task2.cs",
+              "RelativeDocumentMoniker": "Task2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\4 \u043A\u0443\u0440\u0441\\KG\\Comp_Graph_3\\Lab3\\Task2.cs",
+              "RelativeToolTip": "Task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:29:37.773Z"
             }
           ]
         }
